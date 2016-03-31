@@ -40,6 +40,7 @@ values."
      python
      java
      latex
+     dockerfile
      spell-checking
      syntax-checking
      ;; version-control
