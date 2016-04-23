@@ -4,7 +4,6 @@ git ca -m "Synced"
 git push origin master
 
 source ../dotfiles/bootstrap.sh
-rm ~/.curlrc
-
-source ~/aptgetSync.sh
+rm ~/.curlrc ~/.osx ~/brew.sh
+rm -rf ~/init/
 
