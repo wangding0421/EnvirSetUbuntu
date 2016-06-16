@@ -5,3 +5,4 @@ git push origin master
 
 source ../dotfiles/bootstrap.sh
 
+cd ~/
