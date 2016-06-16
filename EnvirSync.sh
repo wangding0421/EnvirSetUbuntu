@@ -1,4 +1,4 @@
-cp .extra .path aptgetSync.sh ~/
+cp .extra .path .sh ~/
 
 git ca -m "Synced"
 git push origin master
