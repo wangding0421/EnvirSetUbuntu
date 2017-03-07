@@ -1,4 +1,4 @@
-cp .extra ~/
+cp .extra .vimrc ~/
 
 git ca -m "Synced"
 git push origin master
