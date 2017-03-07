@@ -1,4 +1,4 @@
-cp .extra .path .sh ~/
+cp .extra ~/
 
 git ca -m "Synced"
 git push origin master

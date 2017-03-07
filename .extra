@@ -1,4 +1,3 @@
-alias e="emacs"
 alias gca='g ca -m'
 alias gp='g push origin master'
 # Set the terminal title to the current working directory.
